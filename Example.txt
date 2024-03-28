@@ -1,0 +1,2 @@
+Hi, i a learning Devops, scripting and git
+This is test messages.
